@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sex_On_The_Beach.jpg"
+    },
+    {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Memorial_Day_margaritas.jpg/1024px-Memorial_Day_margaritas.jpg"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dry_martini.jpg/800px-Dry_martini.jpg"
+    }
+]

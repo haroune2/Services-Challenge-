@@ -18,7 +18,13 @@ export class CocktailListComponent {
 
   ngOnInit(): void {
     
-    this.cocktails = this.cocktailService.getCocktails();
+
+    this.cocktailService.getCocktails().subscribe(data => {
+      this.cocktails = data;
+    });
+ 
+
+
   }
 
   
